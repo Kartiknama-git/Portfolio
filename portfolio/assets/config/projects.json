@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Netflix-Project",
+      "description": "A collection of Movies & Trailer and also movies poster for Android + iOS that provide latest information of movies and webseries, functionality right on your home screen.",
+      "technologies": ["HTML", "LAPTOP-SIZE"],
+      "category": "automation",
+      "image": "./assets/projects/netflix.jpg",
+      "githubUrl": "https://github.com/Kartiknama-git/Netflix-Project",
+      "liveUrl": "https://kartiknama-git.github.io/Netflix-Project/index.html",
+      "liveLabel": "Docs",
+      "liveIcon": "fas fa-book",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Game Of Tiles",
+      "description": "A unique Game Of Tiles webpage that upgrade skills of your mind and projects Simple interactive HTML code.",
+      "technologies": ["HTML", "CSS","JavaScript"],
+      "category": "web",
+      "image": "./assets/projects/3x3tiles.jpg",
+      "githubUrl": "https://github.com/Kartiknama-git/Basic-Project-of-Javascript/blob/main/tiles.html",
+      "liveUrl": "https://kartiknama-git.github.io/Basic-Project-of-Javascript/tiles.html",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Chess Master",
+      "description": "Chess is a powerful mental workout that enhances cognitive function, sharpens strategic planning. It exercises both hemispheres of the brain, improving memory, problem-solving abilities, and the capacity to stay calm under pressure",
+      "technologies": ["JavaScript", "HTML", "Advance CSS"],
+      "category": "automation",
+      "image": "./assets/projects/chess.jpg",
+      "githubUrl": "https://github.com/Kartiknama-git/Basic-Project-of-Javascript/blob/main/chess.html",
+      "liveUrl": "https://kartiknama-git.github.io/Basic-Project-of-Javascript/chess.html",
+      "liveLabel": "Docs", 
+      "liveIcon": "fas fa-book",
+      "featured": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "fa-solid fa-diagram-project",
+      "visible": true
+    },
+    {
+      "id": "web",
+      "name": "Web Dev",
+      "icon": "fa-solid fa-globe",
+      "visible": true
+    },
+    {
+      "id": "education",
+      "name": "Educational",
+      "icon": "fa-solid fa-graduation-cap",
+      "visible": false
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "icon": "fa-solid fa-robot",
+      "visible": true
+    }
+  ]
+}

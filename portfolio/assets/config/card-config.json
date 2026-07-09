@@ -1,0 +1,63 @@
+{
+    "profile": {
+        "name": "Kartik",
+        "tagline": "Frontend Developer & AI/cyber security",
+        "location": "Kota, Rajasthan",
+        "bannerImage": "../ele/logo.jpg",
+        "profileImage": "../ele/kartik.png",
+        "themeColor": "#8b5cf6"
+    },
+    "skills": [
+        "Frontend Developer",
+        "Tech Explorer"
+    ],
+    "socialLinks": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/kartik-nama-049318374/",
+            "icon": "linkedin",
+            "tooltip": "LinkedIn"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Kartiknama-git",
+            "icon": "github",
+            "tooltip": "GitHub"
+        },
+        {
+            "platform": "Email",
+            "url": "mailto:namakartik32@gmail.com",
+            "icon": "email",
+            "tooltip": "Email"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://x.com/home",
+            "icon": "twitter",
+            "tooltip": "twitter"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/iamkartiknama",
+            "icon": "instagram",
+            "tooltip": "instagram"
+        }
+    ],
+    "footer": {
+        "text": "Made by Kartik",
+        "url": "https://github.com/Kartiknama-git",
+        "showHeart": true
+    },
+    "animations": {
+        "enableHover3D": true,
+        "enableRippleEffect": true,
+        "enableParallax": true
+    },
+    "customization": {
+        "cardWidth": "430px",
+        "cardBorderRadius": "24px",
+        "glowIntensity": "20px",
+        "backgroundType": "solid",
+        "backgroundColor": "#000000"
+    }
+}
