@@ -824,7 +824,7 @@ class PortfolioApp {
                     description: "A responsive personal website showcasing projects with modern design patterns and animations.",
                     technologies: ["HTML5", "CSS3", "JavaScript", "Modern Design"],
                     category: "web",
-                    githubUrl: "",
+                    githubUrl: "https://github.com/Kartiknama-git/Portfolio",
                     liveUrl: "#",
                     featured: true
                 },
